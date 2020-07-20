@@ -1,0 +1,7 @@
+# files to ignore
+*.ico
+
+# folders to ignore
+.idea
+/node_modules/
+/dist/
